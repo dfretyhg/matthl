@@ -2,8 +2,11 @@ header {
     background-color: #4169e1;
     box-shadow: 2px 2px 5px black;
     border-radius:  15px;
+    padding: 0px 0px 0px 0px;
 }
 
 h1 {
     text-shadow: 2px 2px 3px gray;
+    margin-left: 5px;
+    
 }
