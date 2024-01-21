@@ -1,3 +1,9 @@
 header {
-    background-color: aqua;
+    background-color: #4169e1;
+    box-shadow: 2px 2px 5px black;
+    border-radius:  15px;
+}
+
+h1 {
+    text-shadow: 2px 2px 3px gray;
 }
